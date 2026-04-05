@@ -2,10 +2,10 @@
 
 import React, { useState } from "react";
 import apple_ui from "../assets/apple_ui.mp4";
-import comp from "../assets/comp_1.mp4";
+import comp from "../assets/Comp_1.mp4";
 import talking from "../assets/talking.mp4";
 import documentary from "../assets/documentary_theam.jpg";
-import motion_graphic from "../assets/SHOWREEL 2025.jpg";
+import motion_graphic from "../assets/SHOWREEL2025.jpg";
 import tkh from "../assets/tkh.png";
 
 const Services = () => {
